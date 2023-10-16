@@ -1,4 +1,4 @@
-# Sudhir Lokade - Personal Protfolio Weebsite 
+# Sudhir Lokade - Personal Protfolio Website 
 This is my personal portfolio website
 # About 
 My portfolio website serves as a platform to display my expertise as a budding Full Stack Developer and committed computer science enthusiast. It offers insights into my background, skills, and offers direct avenues for contact.
